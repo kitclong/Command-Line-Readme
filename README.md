@@ -27,7 +27,7 @@ User can create a quick README file with the command line generator.
 * cli select options
 * additonal markdown syntax
 * .promisify
-* inquirer.promt
+* inquirer.prompt
 * await
 * try/catch 
 
