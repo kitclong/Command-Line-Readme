@@ -16,6 +16,7 @@ The purpose of this was to create a README generator using the command line and 
 
 * Javascript
 * Node.js
+* JSON
 
 ## Use:
 
