@@ -1,11 +1,11 @@
 
     
 
-# Project
-![Gitbadge](https://img.shields.io/badge/license-Do What The F*ck You Want To Public License-blue)
+# lakjsdf
+![Gitbadge](https://img.shields.io/badge/license-Open-blue)
 
 ## Description
-It is a project
+asd;lfjasd
 
 ## Table of Contents
 - [Installation](#installCMD)
@@ -17,29 +17,29 @@ It is a project
 - [Email](#email)
 
 ## Installation
-    npm install inquirer
+    fasdfas
 
 ## Usage
-    use at own risk
+    dfas
 
 ## Preview
     Add a screenshot by using:
     ![alt text](assets / images / screenshot.png)
 
 ## License
-    Do What The F*ck You Want To Public License
+    Open
 
 ## Contributing
-    give a shoutout
+    dfas
 
 ## Tests
-    npm test
+    dfas
 
 ## Questions
     For additional questions, please contact:
 
-    GitHub User: github/user
-    Email: email@email.com
+    GitHub User: asdf
+    Email: asdf
 
 
     
