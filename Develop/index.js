@@ -86,7 +86,7 @@ async function init() { //https://developer.mozilla.org/en-US/docs/Web/JavaScrip
 
 
         await writeFile('README.md', createREADME)
-        console.log('Finished writing README!')
+        console.log('Finished! Generating a README!')
     } catch (err) {
         console.log(err);
     }
